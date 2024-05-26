@@ -1,0 +1,1 @@
+This a collection of scripts for processing raw multibeam sonar data. We will use mostly Free and Open Source Software.  The main goal is to help understand how a multibeam sonar works and how to create maps of out the raw data
